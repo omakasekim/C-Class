@@ -7,8 +7,8 @@
   * loops 
   * array
   * strings
-  * swapping 
-  * sorting
+  * swapping //unrequired 
+  * sorting //unrequired
   * structure
   * memory address
   * pointers
