@@ -17,3 +17,11 @@ structure
 memory address
 
 pointers
+
+argument
+
+differentPointers
+
+pointerandarray
+
+PAandAP
