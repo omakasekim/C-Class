@@ -1,8 +1,8 @@
-# CrecapClass
+# The C Programming Language
 
 <img src="cc.png">
 
-## Teach in order of
+## Will be taught in order of
 
 * helloWorld
 * function
