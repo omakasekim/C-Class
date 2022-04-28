@@ -1,6 +1,6 @@
 # CrecapClass
 
-<img src="/images/cc.png">
+<img src="./images/cc.png">
 
 ## Teach in order of
 
