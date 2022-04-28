@@ -13,6 +13,7 @@
 * sorting //unrequired
 * structure
 * memory address
+* pointer
 * argument
 * differentPointers
 * pointerandarray
