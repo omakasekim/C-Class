@@ -3,7 +3,7 @@
 int main()
 {
 
-    // pointers are a "variable - like" reference that holds a memory address to another varaible, array, or structure
+    // pointers are a "variable - like" reference that holds a memory address to another variable, array, or structure
     // some tasks are easier with pointers than with variables
     //  * is the dereference operator - it is used to access the value stored at a memory address
     //  & is the address operator - called the ampersand; this returns the memory address of a given variable.
